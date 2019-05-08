@@ -1,9 +1,16 @@
 <br/>
 <p align="center">
   <img src="https://trello-attachments.s3.amazonaws.com/5c700be3634f968524512c18/5c75813c89f1528e8674c24d/0106f79d2868429c271f3f8128315dbc/image.png">
-  <h3>Author: Jonh Silva</h3>
-  <a href="https://www.behance.net/JohnMaycon">Behance</a>
-  <a href="https://www.linkedin.com/in/jonhsilva/">LinkedIn</a>
+  <div>
+    <h3>Developer: Kid Mendes</h3>
+    <a href="https://connect.unity.com/u/kid-mendes">Unity Connect</a>
+    <a href="https://www.linkedin.com/in/kidmendes/">LinkedIn</a>  
+  </div>
+  <div>
+    <h3>Designer: Jonh Silva</h3>
+    <a href="https://www.behance.net/JohnMaycon">Behance</a>
+    <a href="https://www.linkedin.com/in/jonhsilva/">LinkedIn</a>  
+  </div>
 </p>
 
 
