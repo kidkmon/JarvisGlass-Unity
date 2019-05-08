@@ -25,5 +25,5 @@ through an AR Interface, on the Samsung Ocean Center [(OCEAN)](http://www.oceanb
 * [Spaceship](https://github.com/kidkmon/JarvisGlass/tree/master/Assets/Spaceship)
 
 ## Libraries
-The libraries used in the practical projects were:
+The libraries used in the project were:
    * [Vuforia](https://developer.vuforia.com)
